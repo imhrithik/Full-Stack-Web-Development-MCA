@@ -1,0 +1,30 @@
+1. Create a new React component called "Header" that displays a title and a subtitle. Use this component in your xmain App component and pass the title and subtitle as props.
+
+2. Implement a stateful React component called "Counter" that displays a number and two buttons:
+"Increment" and "Decrement." When the "Increment" button is clicked, the number should increase by 1, and when the "Decrement" button is clicked, the number should decrease by 1. Display the updated number on the screen.
+
+3. Create a React form component called "LoginForm" that includes input fields for username and password. Handle form submission and display an alert message with the entered username and password when the form is submitted.
+
+4. Fetch data from an API endpoint using the "fetch" function or a third-party library like "axios." Display the retrieved data in a component called "UserList" that renders a list of user names.
+
+5. Implement routing using React Router. Create two components, "Home" and "About." Set up routes so that the "Home" component is displayed at the root URL ("/") and the "About" component is displayed at "/about".
+
+6. Create a new Angular component called "Header" that displays a title and a subtitle. Use this component in your main AppComponent and pass the title and subtitle as inputs.
+
+7. Create a Reactive Angular form component called "LoginForm" that includes input fields for username and password. Handle form submission and display an alert message with the entered username and password when the form is submitted.
+
+8. In an Express.js server, create a route that handles a GET request to "/api/users" and returns a JSON response with a list of user objects containing names and email addresses.
+
+9. Use the Node.js "fs" module to read data from a JSON file called "data.json" and send the contents as a response when a GET request is made to "/api/data".
+
+10. Implement authentication in an Express.js application using the Passport.js library. Create a route that handles user login using local authentication strategy and returns a JSON response with a token.
+
+11. Set up a static file server in Express.js to serve static files from a "public" directory. Ensure that when a GET request is made to "/styles.css", the server responds with the CSS file located in the "public" directory.
+
+12. Implement routing using Express.js. Create separate route handlers for GET requests to "/books" and "/books/:id". The "/books" route should return a JSON response with a list of books, while the "/books/:id" route should return a JSON response with details of a specific book based on the provided ID.
+
+13. Use the Express.js "body-parser" middleware to parse JSON data sent in the request body. Create a route that handles a POST request to "/api/users" and adds a new user to a MongoDB database.
+
+14. Implement a full-stack application where you have a React front-end that communicates with a Node.js back-end. The application should allow users to enter a name and email address in a form on the front-end, which will be sent to the server and stored in a database. Additionally, the front-end should fetch and display a list of all stored users from the server.
+
+15. Project Based Learning Assignment

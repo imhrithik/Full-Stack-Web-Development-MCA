@@ -1,0 +1,19 @@
+.header-container {
+    margin-top: 0;
+    text-align: center;
+    background-color: #333;
+    padding: 20px;
+}
+  
+h1 {
+    font-size: 24px;
+    color: #fff;
+    margin: 0;
+}
+  
+h2 {
+    font-size: 18px;
+    color: #ccc;
+    margin: 0;
+}
+  
